@@ -6,4 +6,4 @@ class start{
 		System.out.println(sum);
 	}
 }
-
+//just to check the diff command
